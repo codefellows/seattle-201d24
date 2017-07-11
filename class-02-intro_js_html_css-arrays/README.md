@@ -3,7 +3,7 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Tuesday Lecture
 
-#### Quiz 1 will be published this afternoon. It will be due at 11:59pm tomorrow night (late Wednesday)
+#### Quiz 1 will be published this afternoon. It will be due at 8:59am Thursday morning
 
 #### Class Roadmap for Today
 
