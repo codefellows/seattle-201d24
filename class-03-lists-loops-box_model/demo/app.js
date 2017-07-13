@@ -20,7 +20,7 @@ var randomCrap = [true, 4, 'WTF', myCats];
 // }
 
 for(var i = 0; i < myCats.length; i++) {
-  alert(myCats[i].toUpperCase());
+  console.log(myCats[i].toUpperCase());
 }
 
 // i++ is an incrementer; "++" is the "increment operator"

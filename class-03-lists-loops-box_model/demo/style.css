@@ -1,3 +1,21 @@
 * {
   outline: 1px dotted orange;
+  padding: 5px;
+}
+
+li {
+  display: inline;
+  border-style: double;
+  border-top: 10px solid green;
+  border-left: 15px solid yellow;
+  margin: 20px 50px;
+}
+
+h2 {
+  color: blue;
+  font-size: 30px;
+  font-family: Arial;
+  margin: 0px auto;
+  border: 2px dashed black;
+  width: 600px;
 }
