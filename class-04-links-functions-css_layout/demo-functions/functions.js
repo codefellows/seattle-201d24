@@ -1,4 +1,4 @@
-// June 9
+// July 13
 // Functions demo
 
 // 'use strict';
@@ -15,10 +15,10 @@ function woo() {    // This is the function declaration
   console.log('Wooooooo!!!!');
 }
 
-// woo(); // This is a function call
-// woo();
-// woo();
-// woo();
+woo(); // This is a function call (or, invoke the function)
+woo();
+woo();
+woo();
 
 // We'll start with this commented out, then check it in the console, first by entering only the function name 'woo' in the console, then by entering the function call 'woo()' in the console.
 
@@ -96,14 +96,14 @@ function mathsGetHarder(numOne, numTwo, numThree) {
 
 // Function Scope
 
-var dan = 'schwartz'; // GLOBAL VARIABLE
-
-function fire() {
-  var maelle = 'Ellie Mae'; // LOCAL VARIABLE
-  console.log('Maelle\'s hilbilly name is ' + maelle);
-  console.log('dan\'s old global name is ' + dan); // um, no, because hoisting
-  dan = 'dieter';
-  console.log('dan\'s new local name is ' + dan);
-  return 'THIS IS THE RETURN STATEMENT OUTPUT';
-}
-console.log('But, outside of the function, dan\s name is ' + dan);
+// var dan = 'schwartz'; // GLOBAL VARIABLE
+//
+// function fire() {
+//   var maelle = 'Ellie Mae'; // LOCAL VARIABLE
+//   console.log('Maelle\'s hilbilly name is ' + maelle);
+//   console.log('dan\'s old global name is ' + dan); // um, no, because hoisting
+//   dan = 'dieter';
+//   console.log('dan\'s new local name is ' + dan);
+//   return 'THIS IS THE RETURN STATEMENT OUTPUT';
+// }
+// console.log('But, outside of the function, dan\s name is ' + dan);
