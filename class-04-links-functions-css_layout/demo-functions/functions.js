@@ -15,10 +15,10 @@ function woo() {    // This is the function declaration
   console.log('Wooooooo!!!!');
 }
 
-woo(); // This is a function call (or, invoke the function)
-woo();
-woo();
-woo();
+// woo(); // This is a function call (or, invoke the function)
+// woo();
+// woo();
+// woo();
 
 // We'll start with this commented out, then check it in the console, first by entering only the function name 'woo' in the console, then by entering the function call 'woo()' in the console.
 
@@ -38,7 +38,7 @@ function clue(who, where, weapon) {
 }
 
 // Called with three arguments
-clue('Brandon', 'bathroom', 'CSS');
+// clue('Brandon', 'bathroom', 'CSS');
 
 // We can also call this in the console with different arguments.
 
@@ -50,7 +50,7 @@ var murderer = 'Col Mustard';
 var crimeScene = 'library';
 var toolOfDeath = 'candlestick';
 //
-clue(murderer, crimeScene, toolOfDeath);
+// clue(murderer, crimeScene, toolOfDeath);
 
 // ++++++++++++++++++++++++++++++++++++++++
 
@@ -69,7 +69,7 @@ function mathsAreHard(numOne, numTwo, numThree) {
 
   // console.log('The sum of these numbers is ' + sum);
   return [sum, sum1, sum2, sum3];
-  // console.log('If this shows I will give Brandon $1000');
+  console.log('If this shows I will give Ron $1000');
 }
 
 // console.log(mathsAreHard(2, 5, 9)[2], 'mathsAreHard(2, 5, 9)[2]');
