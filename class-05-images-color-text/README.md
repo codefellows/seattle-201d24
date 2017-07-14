@@ -9,6 +9,7 @@
 	- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
 	- **Reminder:** Weekly surveys will go out to students in email today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
 	- We will wrap class at 11:45 today. Why? Today is your first **Partner Power Hour**, which is when we have alums and industry partners come give a lunchtime presentation. Recall, Brandy talked about these on the very first day, and your attendance is required. Today's presentation is ?????. The presentation starts at 12:15, so us stopping class at 11:45 gives you a solid 30 minutes to grab a bite and a break.
+	- The current JS 401 is doing their midpoint presentations of projects today. They have been in Project Week all week, just as you will be in Week 4 of our class. They will be doing some presentations in the morning, and some in the afternoon, in the main event space. You should try to go watch at least one project team's presentation today just to get a feel for what those are like, even if the main thing they're building (back-end APIs and the associated tests) are beyond what you've seen so far.
 
 ### Today's Schedule
 - Code review and discussion on Thursday's lab *[30 minutes]*
