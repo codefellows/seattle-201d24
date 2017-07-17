@@ -69,3 +69,16 @@ var edmondsBeach = {
 };
 
 edmondsBeach.render();
+
+
+
+var pike = {
+  minCustPerHr: 10,
+  maxCustPerHr: 100,
+  avgCookiesPerCust: 3.4,
+  customersEachHour: [],
+  cookiesEachHour: [],
+  totalCookiesPerDay: 0;
+  (methods to calculate customer and cookie totals)
+  (method to calculate customers per hour)
+}
