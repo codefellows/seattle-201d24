@@ -8,7 +8,9 @@ var pikePlace = {
   avgCookiesPerSale: 6.3,
   customersPerHour: [],
   calcCustomersPerHour: function(){
-
+    for(var i = 0; i < hours.length; i++){
+      this.customersPerHour.push(Math.floor(Math.random() * (this.maxCustomers - this.minCustomers + 1)) + this.minCustomers);
+    }
   },
   cookiesSoldEachHour: [],
   calcCookiesSoldEachHour: function(){
@@ -16,6 +18,6 @@ var pikePlace = {
   },
   totalCookiesPerDay: 0,
   render: function(){
-    
+
   }
 };
