@@ -20,6 +20,8 @@ Comment.prototype.render = function() {
   return liEl;
 };
 
+Comment.adrienne = 'AWESOME was of looking at constructors';
+
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // FUNCTION DECLARATIONS
 
@@ -43,7 +45,7 @@ function handleCommentSubmit(event) {
   // console.log('log of the event object', event);
   // console.log('log of the event.target', event.target);
   // console.log('log of the event.target.says', event.target.says);
-  // console.log('log of the event.target.who.value', event.target.who.value);
+  console.log('log of the event.target.who.value', event.target.who.value);
 
   event.preventDefault(); // gotta have it for this purpose. prevents page reload on a 'submit' event
 
