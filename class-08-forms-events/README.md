@@ -11,7 +11,8 @@
 
 #### Announcements
 - Today is the midpoint of class days! **ER.MAH.GERD.**
-![](ermahgerd.jpg)
+
+![ermahgerd.jpg](ermahgerd.jpg)
 
 - One-on-ones for today:
   - 2:30 Gabe
