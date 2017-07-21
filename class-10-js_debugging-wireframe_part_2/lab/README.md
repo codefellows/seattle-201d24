@@ -1,29 +1,10 @@
 # Assignment Overview: Lab for Class 10
-### DUE: Fri 6/16 at 6:00p
+### DUE: Mon 7/24 at 8:59a
 
 ## Chocolate Pizza: Create a webpage from a provided design comp
 
-***Your boss comes up to you just before lunch: "OK, we just picked up this job, but I need it on my desk (well, in my inbox {{submitted in Canvas}}) before 6:00 this afternoon. It doesn't need to be perfect... it needs to be as close to perfect as you can get it in that time."***
 
 In lab today you will be building a single webpage based off of the provided design comp assets. This assignment is a lot of HTML and CSS, and not as much JS as we've been doing this week. In fact, you may choose to do this project with no JS at all, or just add some as a finishing touch.
-
-This will be a pair-programming project, and you are free to set up whatever workflow you choose with your partner. There are multiple approaches that you can take:
-
-- For the initial "getting things entered" phase work independently, for instance one of you gets the images linked in and the layout roughed out, and the other gets all of the text typed in. If you take this approach, make it easier on yourself by segregating the two work processes into totally separate areas of the HTML so that you do not step on each other's toes and cause merge conflicts
-- Maybe you split the work by each of you building a different section of the page in a separate file that you can then unify later.
-- Or maybe you use some other approach that you come up with on your own? Be resourceful!
-
----
-
-**GitHub Repository & Project Setup**
-
-Create a new repository for today called **chocolate-pizza**. If you're both going to be coding, have one user fork the other so that you can get some practice in your Git processes. Be sure to do frequent commits, and always do your work on branches. Before starting coding, think about a strategy for approaching this project. Before writing code, think about a practical order in which to do the work:
-
-- When should you focus on styling?
-- When should you make a decision about a layout scheme?
-- When should you just build out the structure of the HTML?
-- When you should you add JS? Do you even add JS?
-- How much time to allow for the Peter Griffin CSS tweaking?
 
 ***PLAN YOUR WORK AND WORK YOUR PLAN***
 
@@ -57,5 +38,3 @@ OPTIONAL: Add some JavaScript functionality! Get creative, but make sure the sty
 ---
 
 Submit: You'll be committing regularly and working on branches for additional Git practice. Submit the link to your most recent pull request into the Canvas assignment.
-
-### Remember, this assignment is due at 6:00p this afternoon, Friday 6/16!!!
