@@ -2,3 +2,7 @@ body {
   font-family: Helvetica, sans-serif;
   background-color: gray
 }
+
+img {
+  width: 400px;
+}
