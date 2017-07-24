@@ -7,7 +7,7 @@
   - Thursday: We'll review/discuss the project ideas that have been shared in Canvas.
   - Friday: Project teams will be announced; in lecture that day we will cover the procedural and operational details you'll need to
 
---
+---
 
 ### Schedule for lecture today
 
@@ -22,7 +22,7 @@
 
 - [Assignment overview](#code)
 
---
+---
 
 ## Readings
 
