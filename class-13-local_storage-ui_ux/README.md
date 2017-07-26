@@ -3,9 +3,7 @@
 <a id="top"></a>
 ## Today's Plan: Week 3, Wednesday Lecture
 
-#### Reminder: Quiz 7 and Quiz 8 now published; both due by 11:59pm Friday night.
-
-###Announcements
+### Announcements
 - On Friday afternoon we'll publish the entrance exam for Code 301, which doubles as the final exam for this course, and it will be due by Sunday night by 11:59pm. Do take this exam even if you are not planning to go to Code 301 right away, as it is part of your grade for this course. The exam is a bit different from the quizzes for multiple reasons:
 
 	1. It is longer: 25 questions. (Still all multiple-guess, at least)
