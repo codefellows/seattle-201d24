@@ -5,7 +5,7 @@
 
 #### The Code 301 entrance exam will be published later today. It will be due at 11:59pm on Sunday night. Allow yourself about an hour to complete it. Take your time, be methodical, and kick its butt.
 
---
+---
 
 **Campus Schedule for Today**
 
