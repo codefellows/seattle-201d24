@@ -6,6 +6,7 @@
 #### The Code 301 entrance exam will be published later today. It will be due at 11:59pm on Sunday night. Allow yourself about an hour to complete it. Take your time, be methodical, and kick its butt.
 
 --
+
 **Campus Schedule for Today**
 
 - **9:00-9:30am:** Brook Riggio, our VP of Education, will lead a discussion on the "What Google Learned About Teams" article that was our reading assignment for today.
