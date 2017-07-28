@@ -4,15 +4,15 @@
 // Function declarations vs function expressions
 //++++++++++++++++++++++++++
 
-// Function declarations may be called anywehere in the code.
+// Function declarations may be called anywehere in the code. This is because of hoisting.
 
-declaration('I was called BEFORE the function declaration');
+// declaration('I was called BEFORE the function declaration');
 
 function declaration(msg) {
   console.log(msg);
 }
 
-declaration('I was called AFTER the function declaration.');
+// declaration('I was called AFTER the function declaration.');
 
 // Function expressions, howver, may not be called before being assigned.
 
@@ -21,6 +21,8 @@ declaration('I was called AFTER the function declaration.');
 var expression = function(msg) {
   console.log(msg);
 };
+
+// console.log(fishBiscuit); // console gonna say 'fishBiscuit is not defined'; haters gonna hate
 
 // expression('I was called AFTER the function expression.');
 
@@ -41,7 +43,7 @@ var globalVar  = '"I am GLOBALLY scoped and can be viewed, accessed, or modified
 function theScopeMaker() {
   console.log(globalVar, 'said globalVar from inside a function.'); // works great
 
-  var localVar = '"I am LOCALLY scoped and can be viewed, accessed, or modified from the scope in which I am created!"';
+  var localVar = '"I am LOCALLY scoped and can be viewed, accessed, or modified from the scope in which I am created! And... in any child scopes"';
 
   console.log(localVar, 'said localVar from inside the function');
 }
@@ -56,6 +58,7 @@ function theScopeMaker() {
 // (function anIffeCallsItelf() {
 //   var youCantSeeMe = 'Isaiah is stealthy';
 //    alert('This alert window is housed in an Immediately Invoked Function Expression! It runs on page load without polluting the global namespace. Everything inside of an IIFE is scoped locally. This is a standard technique for items that need to execute on page load.');
+//    return console.log(youCantSeeMe);
 //  }());
 
 
@@ -96,6 +99,7 @@ Student.prototype.nextCourse = '301d23';
 Student.aintGonnaBeInherited = 'NO SOUP FOR YOU!';
 
 mahClass[0].faveMovie = 'Xanadu';
+mahClass[1].faveTimeOfDay = 'Happy Hour';
 
 // This gives us flexibility in how we can manipulate individual instances of a constructor: we can do so all at once by manipulating the constructor, or we can also work with the objects individually to give them unique properties/values
 
