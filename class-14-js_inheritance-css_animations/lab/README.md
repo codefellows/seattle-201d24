@@ -10,7 +10,7 @@ Create a repository called 'order-form' and both partners clone it to their lapt
 
 Your index.html is an order form for customers: it will have an order form for BusMall that will have the following inputs:
 
-  - [] A dropdown menu of all BusMall products (`<select>` and `<option>` will be needed)
+  -[ ] A dropdown menu of all BusMall products (`<select>` and `<option>` will be needed)
   - [ ] An input of `type="number"` to indicate quantity to purchase
   - [ ] A "Add to Cart" button to submit the order. When the order is submitted, all of the input fields should be cleared
   - [ ] Display an animated confirmation message using CSS and JS, plus a link to the shopping cart page
