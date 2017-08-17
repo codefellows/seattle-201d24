@@ -23,7 +23,7 @@ Your index.html is an order form for customers: it will have an order form for B
   - Text inputs for each of: name, street, city, state, ZIP code, and phone number
   - An input of `type="number"` to enter a 16-digit credit card number
   - A "Process Order" button to submit the order. When the order is submitted, all of the input fields should be cleared
-  - Display an animated confirmation message using CSS and JS, plus a link to the shopping cart page
+  - Display an animated confirmation message using CSS and JS
 
 
 ## Process
@@ -32,8 +32,8 @@ There's nothing really new here, just extensions and adaptations of previous thi
 
 - You'll need to use local storage to share data between the two HTML pages.
 - The constructor from BusMall might be handy as a way to organize your products.
-- It would also be useful to use a constructor to capture your form data into an object that could be placed into local storage and then used to provide the form data to the shopping cart page.
-- You and your partner should plan out how you want to collaboratively attack the problem: do you each want to build a HTML page and then pair program the JS? Or does one person do both HTML pages while another gets the JS going? It's up to you.
+- It would also be useful to use a constructor ( to capture your form data into an object that could be placed into local storage and then used to provide the form data to the shopping cart page.
+- You and your partner should plan out how you want to collaboratively attack the problem: do you each want to build a HTML page and then pair program the JS? Or does one person do both HTML pages while another gets the JS going? It's up to you, but make sure each partner makes contributions in each of HTML, CSS, and JS.
 - We'll discuss more process in class.
 
 ### *Remember to submit a link to your last pull request on Canvas!*
