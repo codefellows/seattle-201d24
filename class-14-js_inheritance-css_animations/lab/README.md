@@ -1,6 +1,6 @@
 # Assignment Overview: Lab for Class 14
 
-##Let's Make an Order Form & a Shopping Cart!
+## Let's Make an Order Form & a Shopping Cart!
 
 We're going to adapt some prior stretch goals and build a small stand-alone project with it: assuming that all items in BusMall went into production, let's build a web-based order form and shopping cart app.
 
