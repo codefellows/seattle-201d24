@@ -32,8 +32,8 @@ There's nothing really new here, just extensions and adaptations of previous thi
 
 - You'll need to use local storage to share data between the two HTML pages.
 - The constructor from BusMall might be handy as a way to organize your products.
-- It would also be useful to use a constructor ( to capture your form data into an object that could be placed into local storage and then used to provide the form data to the shopping cart page.
-- You and your partner should plan out how you want to collaboratively attack the problem: do you each want to build a HTML page and then pair program the JS? Or does one person do both HTML pages while another gets the JS going? It's up to you, but make sure each partner makes contributions in each of HTML, CSS, and JS.
+- It would also be useful to use a constructor named `OrderedItem` to capture your form data into an object that could be placed into local storage and then used to provide the form data to the shopping cart page.
+- You and your partner should plan out how you want to collaboratively attack the problem: do you each want to build a HTML page and then pair program the JS? It's up to you how the details are managed, but make sure each partner makes contributions in each of HTML, CSS, and JS.
 - We'll discuss more process in class.
 
 ### *Remember to submit a link to your last pull request on Canvas!*
